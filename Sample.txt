@@ -1,0 +1,39 @@
+==============  Example 1 (Standard NDA & Liability) ===========
+
+CONFIDENTIALITY AND NON-DISCLOSURE The Receiving Party acknowledges that during the term of this Agreement, it may acquire knowledge of or have access to proprietary information or trade secrets of the Disclosing Party. The Receiving Party shall hold all such confidential information in strict confidence and must not disclose, distribute, or disseminate the information to any third party without prior written consent. The Receiving Party will restrict access to confidential information only to its employees who have a strict need to know.
+
+LIMITATION OF LIABILITY IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR EXEMPLARY DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, OR LOSS OF DATA) ARISING OUT OF OR RELATING TO THIS AGREEMENT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. The total cumulative liability of the Service Provider under this Agreement shall not exceed the total fees actually paid by the Client in the three (3) months preceding the event giving rise to the claim.
+
+TERMINATION Either Party may terminate this Agreement at any time, for any reason or no reason, by providing thirty (30) days prior written notice to the other Party. Furthermore, the Disclosing Party may immediately terminate this Agreement in the event of a material breach of the confidentiality obligations set forth herein by the Receiving Party. Upon termination or expiration of this Agreement, the Receiving Party must promptly return or securely destroy all documents and media containing the Disclosing Party's confidential information.
+
+==============  Example 2 (Predatory Terms of Service / SaaS) =========
+
+AUTO-RENEWAL AND BILLING By subscribing to the MegaSoftware Pro plan, you authorize us to charge your payment method on file on a recurring monthly basis. This subscription will automatically renew at the end of each billing cycle for an additional term of equal length unless cancelled by you at least forty-five (45) days prior to the renewal date. We reserve the right to increase fees by up to 20% upon renewal without prior notice.
+
+UNILATERAL MODIFICATION OF TERMS We may revise and update these Terms of Service from time to time in our sole discretion. All changes are effective immediately when we post them. Your continued use of the platform following the posting of revised Terms means that you accept and agree to the changes.
+
+MANDATORY ARBITRATION AND CLASS ACTION WAIVER Any dispute, claim, or controversy arising out of or relating to this Agreement, or the breach thereof, shall be settled by binding arbitration administered by the American Arbitration Association. YOU AGREE THAT YOU MAY BRING CLAIMS AGAINST US ONLY IN YOUR INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING.
+
+========= Example 3 (Freelance / Independent Contractor Agreement) =========
+
+RELATIONSHIP OF THE PARTIES The Contractor agrees to provide web development services for an agreed sum of $5,000. It is expressly understood that the Contractor is an independent contractor and not an employee, agent, or partner of the Client. The Contractor is solely responsible for all taxes, withholdings, and insurance.
+
+INTELLECTUAL PROPERTY AND WORK FOR HIRE All work product, code, designs, and deliverables created by the Contractor under this Agreement shall be considered "work made for hire" under applicable copyright laws. The Client shall own all right, title, and interest in and to the deliverables immediately upon creation. If for any reason the deliverables do not qualify as a work made for hire, the Contractor hereby irrevocably assigns to the Client all intellectual property rights in the work product.
+
+NON-COMPETE During the term of this Agreement and for a period of two (2) years thereafter, the Contractor shall not directly or indirectly engage in, consult with, or provide services to any business that directly competes with the Client's primary software products within the United States.
+
+====================  Example 4 (Commercial Lease Agreement) ====================================
+
+PREMISES AND AS-IS CONDITION The Landlord agrees to lease the commercial space located at 123 Main Street to the Tenant for a period of five (5) years. The Tenant accepts the premises in its "AS-IS" condition. The Landlord makes no warranties, express or implied, regarding the suitability of the premises for the Tenant's intended business operations.
+
+MAINTENANCE AND REPAIRS The Tenant shall, at its sole cost and expense, keep and maintain the entire premises in good working order, including but not limited to the HVAC system, plumbing, electrical systems, roof, and structural foundations. If the HVAC system requires replacement during the lease term, the Tenant shall bear the full cost of such replacement.
+
+LATE CHARGES AND DEFAULT If any rent payment is not received by the Landlord within three (3) days of the due date, the Tenant shall pay a late fee equal to 10% of the overdue amount, plus interest accruing at a rate of 1.5% per month. The Landlord may terminate this lease and initiate eviction proceedings if rent remains unpaid for five (5) days.
+
+====================  Example 5 (Draconian Employment Agreement) ====================================
+
+AT-WILL EMPLOYMENT Your employment with OmniCorp is "at-will." This means that either you or the Company may terminate your employment at any time, with or without cause, and with or without advance notice.
+
+LIQUIDATED DAMAGES FOR EARLY DEPARTURE In consideration of the extensive training provided by the Company, you agree that if you voluntarily resign from your position within the first twenty-four (24) months of employment, you shall pay the Company the sum of $25,000 as liquidated damages, which the Company may deduct from your final paycheck.
+
+NON-SOLICITATION For a period of thirty-six (36) months following the termination of your employment for any reason, you agree not to directly or indirectly solicit, hire, or attempt to hire any current or former employee, contractor, or vendor of the Company, nor shall you solicit any current or prospective customer of the Company for the purpose of providing competing services.

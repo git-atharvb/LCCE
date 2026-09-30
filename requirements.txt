@@ -1,0 +1,7 @@
+Flask
+Flask-CORS
+pymupdf
+fpdf2
+openai
+python-dotenv
+pydantic
